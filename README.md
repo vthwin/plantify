@@ -1,6 +1,6 @@
 # 🪴 Plantify
 
-Plantify is a responsive eCommerce platform for plant enthusiasts, offering a seamless browsing and purchasing experience.
+Plantify is a platform for plant enthusiasts, offering a seamless, responsive browsing and purchasing experience.
 
 **Desktop and Mobile Preview:**
 
@@ -72,4 +72,4 @@ Plantify is a demo application for educational and portfolio purposes. It does n
 
 ## 📅 Last Updated
 
-September 25, 2024
+June 3, 2025
